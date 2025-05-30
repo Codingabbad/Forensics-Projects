@@ -72,7 +72,7 @@ A series of hands-on digital forensics projects covering **volatile & non-volati
 - Gained hands-on experience with commercial & open-source tools
 
 ## 🚀 How to Use
-1. Clone repository: `git clone [your-repo-url]`
+1. Clone repository: `(https://github.com/Codingabbad/Forensics-Projects.git)`
 2. Refer to individual project folders for:
    - Detailed reports (PDF/DOCX)
    - Tool configuration guides
